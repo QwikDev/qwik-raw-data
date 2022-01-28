@@ -1,0 +1,38 @@
+{
+  "lastUpdate": 1643334468941,
+  "repoUrl": "https://github.com/BuilderIO/qwik",
+  "entries": {
+    "Benchmark": [
+      {
+        "commit": {
+          "author": {
+            "email": "manu.mtza@gmail.com",
+            "name": "Manu MA",
+            "username": "manucorporat"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "fce5ca7f2c54658d878d49b9dfb3f775a5197136",
+          "message": "fix: bench deploy (#146)",
+          "timestamp": "2022-01-28T02:37:59+01:00",
+          "tree_id": "5cd2471ac8a55e058235e4d20e7201205359a02c",
+          "url": "https://github.com/BuilderIO/qwik/commit/fce5ca7f2c54658d878d49b9dfb3f775a5197136"
+        },
+        "date": 1643334468940,
+        "tool": "cargo",
+        "benches": [
+          {
+            "name": "transform_todo_app",
+            "value": 1734789,
+            "range": "± 8900",
+            "unit": "ns/iter"
+          }
+        ]
+      }
+    ]
+  }
+}

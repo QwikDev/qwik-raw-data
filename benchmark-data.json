@@ -1,5 +1,5 @@
 {
-  "lastUpdate": 1643388369086,
+  "lastUpdate": 1644012900303,
   "repoUrl": "https://github.com/BuilderIO/qwik",
   "entries": {
     "Benchmark": [
@@ -59,6 +59,36 @@
             "name": "transform_todo_app",
             "value": 1731111,
             "range": "± 12048",
+            "unit": "ns/iter"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "manu.mtza@gmail.com",
+            "name": "Manu MA",
+            "username": "manucorporat"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "63a2bc719ac6c7a9feeb61fc4be8c9fec53ff0a2",
+          "message": "feat: vitejs support (#169)\n\n- Compiler can generate hooks with explicit extension\r\n- Refactor optimizer internal data structures to better connect modules with their hook metadata\r\n- Refactor optimizer to emit entry files with .js extension\r\n- Rollup plugin in hook mode uses pure transform instead whole world context\r\n- Update starters to use vite and tailwindcss\r\n- Implement features in the CLI\r\n- Fix in runtime: track extension of hooks\r\n- Fix in runtime: canonicalChunk to compare hooks more reliably\r\n- Fix in runtime: useInvoke() waits for context.waitOn promise array\r\n- Fix stack trace qrl logic\r\n- Fix hostElement logic in createInvocation()\r\n- Remove integrations folder\r\n- Rename 'useStore' to 'createStore'",
+          "timestamp": "2022-02-04T22:01:24Z",
+          "tree_id": "6532e4c824bb233a42b70fd4ef3d8cc04d86c332",
+          "url": "https://github.com/BuilderIO/qwik/commit/63a2bc719ac6c7a9feeb61fc4be8c9fec53ff0a2"
+        },
+        "date": 1644012900302,
+        "tool": "cargo",
+        "benches": [
+          {
+            "name": "transform_todo_app",
+            "value": 2312129,
+            "range": "± 479200",
             "unit": "ns/iter"
           }
         ]

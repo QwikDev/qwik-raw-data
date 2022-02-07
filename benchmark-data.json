@@ -1,5 +1,5 @@
 {
-  "lastUpdate": 1644012900303,
+  "lastUpdate": 1644258682796,
   "repoUrl": "https://github.com/BuilderIO/qwik",
   "entries": {
     "Benchmark": [
@@ -89,6 +89,36 @@
             "name": "transform_todo_app",
             "value": 2312129,
             "range": "± 479200",
+            "unit": "ns/iter"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "manu.mtza@gmail.com",
+            "name": "Manu MA",
+            "username": "manucorporat"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "a92fcd8f6499f5d2876f82b248558e4a4f9a7b32",
+          "message": "feat: improve rollup error reporting (#179)",
+          "timestamp": "2022-02-07T18:21:12Z",
+          "tree_id": "48043307c8695bba75fa574ef9a81c41d755b228",
+          "url": "https://github.com/BuilderIO/qwik/commit/a92fcd8f6499f5d2876f82b248558e4a4f9a7b32"
+        },
+        "date": 1644258682795,
+        "tool": "cargo",
+        "benches": [
+          {
+            "name": "transform_todo_app",
+            "value": 1713728,
+            "range": "± 5089",
             "unit": "ns/iter"
           }
         ]

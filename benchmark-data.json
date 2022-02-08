@@ -1,5 +1,5 @@
 {
-  "lastUpdate": 1644258682796,
+  "lastUpdate": 1644348005566,
   "repoUrl": "https://github.com/BuilderIO/qwik",
   "entries": {
     "Benchmark": [
@@ -119,6 +119,36 @@
             "name": "transform_todo_app",
             "value": 1713728,
             "range": "± 5089",
+            "unit": "ns/iter"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "adamdbradley@users.noreply.github.com",
+            "name": "Adam Bradley",
+            "username": "adamdbradley"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "ea831aa71e6168aebaad6f48f49aa2d6d8e72aa7",
+          "message": "feat: publish starter cli with qwik (#185)",
+          "timestamp": "2022-02-08T19:08:13Z",
+          "tree_id": "14ef9c658ba0e89977f425a83cea2759eecaf168",
+          "url": "https://github.com/BuilderIO/qwik/commit/ea831aa71e6168aebaad6f48f49aa2d6d8e72aa7"
+        },
+        "date": 1644348005565,
+        "tool": "cargo",
+        "benches": [
+          {
+            "name": "transform_todo_app",
+            "value": 2045305,
+            "range": "± 48362",
             "unit": "ns/iter"
           }
         ]

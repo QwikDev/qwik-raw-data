@@ -1,0 +1,38 @@
+{
+  "lastUpdate": 1644512107908,
+  "repoUrl": "https://github.com/BuilderIO/qwik",
+  "entries": {
+    "Benchmark": [
+      {
+        "commit": {
+          "author": {
+            "email": "manu.mtza@gmail.com",
+            "name": "Manu MA",
+            "username": "manucorporat"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "72b8436e5ab3cb39688ec9bb4e581487f3745803",
+          "message": "fix: full page reload with css changes (#190)",
+          "timestamp": "2022-02-10T16:45:00Z",
+          "tree_id": "d022a7d85182507db5632cb8cd2eedde29745875",
+          "url": "https://github.com/BuilderIO/qwik/commit/72b8436e5ab3cb39688ec9bb4e581487f3745803"
+        },
+        "date": 1644512107907,
+        "tool": "cargo",
+        "benches": [
+          {
+            "name": "transform_todo_app",
+            "value": 1731601,
+            "range": "± 14034",
+            "unit": "ns/iter"
+          }
+        ]
+      }
+    ]
+  }
+}

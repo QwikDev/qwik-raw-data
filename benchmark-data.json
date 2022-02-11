@@ -1,5 +1,5 @@
 {
-  "lastUpdate": 1644512108064,
+  "lastUpdate": 1644598653004,
   "repoUrl": "https://github.com/BuilderIO/qwik",
   "entries": {
     "Benchmark": [
@@ -209,6 +209,36 @@
             "name": "transform_todo_app",
             "value": 1731601,
             "range": "± 14034",
+            "unit": "ns/iter"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "manu.mtza@gmail.com",
+            "name": "Manu MA",
+            "username": "manucorporat"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "e937197a4dd18a39329e7408707d9ebf39ba4e05",
+          "message": "chore: update deps (#202)",
+          "timestamp": "2022-02-11T16:45:13Z",
+          "tree_id": "a1068115503a623e9052c22ec047ad8f8f06d82a",
+          "url": "https://github.com/BuilderIO/qwik/commit/e937197a4dd18a39329e7408707d9ebf39ba4e05"
+        },
+        "date": 1644598653003,
+        "tool": "cargo",
+        "benches": [
+          {
+            "name": "transform_todo_app",
+            "value": 1990501,
+            "range": "± 73656",
             "unit": "ns/iter"
           }
         ]

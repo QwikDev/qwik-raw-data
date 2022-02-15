@@ -1,5 +1,5 @@
 {
-  "lastUpdate": 1644774354771,
+  "lastUpdate": 1644909672739,
   "repoUrl": "https://github.com/BuilderIO/qwik",
   "entries": {
     "Benchmark": [
@@ -269,6 +269,36 @@
             "name": "transform_todo_app",
             "value": 1991546,
             "range": "± 18220",
+            "unit": "ns/iter"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "manu.mtza@gmail.com",
+            "name": "Manu MA",
+            "username": "manucorporat"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "ab9c1eb651812be03bc7a052fe8124659565c41e",
+          "message": "fix: vitejs global styles (#217)",
+          "timestamp": "2022-02-15T07:10:38Z",
+          "tree_id": "0e608dd1c08fe58188d27bf3e07273e7812603cc",
+          "url": "https://github.com/BuilderIO/qwik/commit/ab9c1eb651812be03bc7a052fe8124659565c41e"
+        },
+        "date": 1644909672738,
+        "tool": "cargo",
+        "benches": [
+          {
+            "name": "transform_todo_app",
+            "value": 1686368,
+            "range": "± 23791",
             "unit": "ns/iter"
           }
         ]

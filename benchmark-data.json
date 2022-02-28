@@ -1,5 +1,5 @@
 {
-  "lastUpdate": 1644920686204,
+  "lastUpdate": 1646062175607,
   "repoUrl": "https://github.com/BuilderIO/qwik",
   "entries": {
     "Benchmark": [
@@ -329,6 +329,36 @@
             "name": "transform_todo_app",
             "value": 1985883,
             "range": "± 297550",
+            "unit": "ns/iter"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "manu.mtza@gmail.com",
+            "name": "Manu MA",
+            "username": "manucorporat"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "1aa4184de9e4c716cc11641a1d8ca7c3640e4a08",
+          "message": "fix(): lock rust version in CI (#242)",
+          "timestamp": "2022-02-28T15:19:34Z",
+          "tree_id": "975f840295eb067a4d1bb03eb154afa1dc7993e3",
+          "url": "https://github.com/BuilderIO/qwik/commit/1aa4184de9e4c716cc11641a1d8ca7c3640e4a08"
+        },
+        "date": 1646062175606,
+        "tool": "cargo",
+        "benches": [
+          {
+            "name": "transform_todo_app",
+            "value": 1503170,
+            "range": "± 6516",
             "unit": "ns/iter"
           }
         ]

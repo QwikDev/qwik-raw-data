@@ -1,5 +1,5 @@
 {
-  "lastUpdate": 1646062175607,
+  "lastUpdate": 1646937365141,
   "repoUrl": "https://github.com/BuilderIO/qwik",
   "entries": {
     "Benchmark": [
@@ -359,6 +359,36 @@
             "name": "transform_todo_app",
             "value": 1503170,
             "range": "± 6516",
+            "unit": "ns/iter"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "manu.mtza@gmail.com",
+            "name": "Manu MA",
+            "username": "manucorporat"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "3852547384606dc530fc668e3b976217de93a7e8",
+          "message": "fix: several fixes new runtime (#254)",
+          "timestamp": "2022-03-10T18:25:27Z",
+          "tree_id": "079467d1997c3c66b86c5aea3a4e241ad48f02b3",
+          "url": "https://github.com/BuilderIO/qwik/commit/3852547384606dc530fc668e3b976217de93a7e8"
+        },
+        "date": 1646937365139,
+        "tool": "cargo",
+        "benches": [
+          {
+            "name": "transform_todo_app",
+            "value": 1704792,
+            "range": "± 10408",
             "unit": "ns/iter"
           }
         ]

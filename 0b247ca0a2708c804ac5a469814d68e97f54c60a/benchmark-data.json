@@ -1,0 +1,38 @@
+{
+  "lastUpdate": 1647084928175,
+  "repoUrl": "https://github.com/BuilderIO/qwik",
+  "entries": {
+    "Benchmark": [
+      {
+        "commit": {
+          "author": {
+            "email": "manu.mtza@gmail.com",
+            "name": "Manu MA",
+            "username": "manucorporat"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "0b247ca0a2708c804ac5a469814d68e97f54c60a",
+          "message": "refactor: fromQrl methods and on methods (#264)",
+          "timestamp": "2022-03-12T11:26:22Z",
+          "tree_id": "4ed13bf36301e44b366566011f69e4477a645f36",
+          "url": "https://github.com/BuilderIO/qwik/commit/0b247ca0a2708c804ac5a469814d68e97f54c60a"
+        },
+        "date": 1647084928173,
+        "tool": "cargo",
+        "benches": [
+          {
+            "name": "transform_todo_app",
+            "value": 1676822,
+            "range": "± 9898",
+            "unit": "ns/iter"
+          }
+        ]
+      }
+    ]
+  }
+}

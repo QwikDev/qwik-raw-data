@@ -1,0 +1,38 @@
+{
+  "lastUpdate": 1648127001553,
+  "repoUrl": "https://github.com/BuilderIO/qwik",
+  "entries": {
+    "Benchmark": [
+      {
+        "commit": {
+          "author": {
+            "email": "manu.mtza@gmail.com",
+            "name": "Manu MA",
+            "username": "manucorporat"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "4ab8b52b501fc64106d6c9c88a83a12793dd5be9",
+          "message": "feat: component events and QRL serialization (#317)",
+          "timestamp": "2022-03-24T12:52:54Z",
+          "tree_id": "0543a67103be8a75f74081a3fc9c300057cef6ff",
+          "url": "https://github.com/BuilderIO/qwik/commit/4ab8b52b501fc64106d6c9c88a83a12793dd5be9"
+        },
+        "date": 1648127001550,
+        "tool": "cargo",
+        "benches": [
+          {
+            "name": "transform_todo_app",
+            "value": 1918334,
+            "range": "± 79395",
+            "unit": "ns/iter"
+          }
+        ]
+      }
+    ]
+  }
+}

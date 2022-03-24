@@ -1,0 +1,38 @@
+{
+  "lastUpdate": 1648141168906,
+  "repoUrl": "https://github.com/BuilderIO/qwik",
+  "entries": {
+    "Benchmark": [
+      {
+        "commit": {
+          "author": {
+            "email": "CommanderRoot@users.noreply.github.com",
+            "name": "CommanderRoot",
+            "username": "CommanderRoot"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "0921889dd83e2fcea33922c1577486c96741493c",
+          "message": "chore: replace deprecated String.prototype.substr() (#314)",
+          "timestamp": "2022-03-24T11:29:11-05:00",
+          "tree_id": "8e75b0e5c421a2628367dcc8ab34ab16a870768e",
+          "url": "https://github.com/BuilderIO/qwik/commit/0921889dd83e2fcea33922c1577486c96741493c"
+        },
+        "date": 1648141168904,
+        "tool": "cargo",
+        "benches": [
+          {
+            "name": "transform_todo_app",
+            "value": 1668344,
+            "range": "± 12178",
+            "unit": "ns/iter"
+          }
+        ]
+      }
+    ]
+  }
+}

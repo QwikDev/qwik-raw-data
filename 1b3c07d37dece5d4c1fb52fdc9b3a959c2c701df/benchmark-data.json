@@ -1,0 +1,38 @@
+{
+  "lastUpdate": 1649457926947,
+  "repoUrl": "https://github.com/BuilderIO/qwik",
+  "entries": {
+    "Benchmark": [
+      {
+        "commit": {
+          "author": {
+            "email": "manu.mtza@gmail.com",
+            "name": "Manu MA",
+            "username": "manucorporat"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "1b3c07d37dece5d4c1fb52fdc9b3a959c2c701df",
+          "message": "feat: join mount and render (#372)",
+          "timestamp": "2022-04-08T23:36:16+01:00",
+          "tree_id": "142466d49bbcfb1b84de5548af53bd7ecffa5b91",
+          "url": "https://github.com/BuilderIO/qwik/commit/1b3c07d37dece5d4c1fb52fdc9b3a959c2c701df"
+        },
+        "date": 1649457926941,
+        "tool": "cargo",
+        "benches": [
+          {
+            "name": "transform_todo_app",
+            "value": 1684543,
+            "range": "± 28892",
+            "unit": "ns/iter"
+          }
+        ]
+      }
+    ]
+  }
+}

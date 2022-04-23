@@ -1,0 +1,38 @@
+{
+  "lastUpdate": 1650714295411,
+  "repoUrl": "https://github.com/BuilderIO/qwik",
+  "entries": {
+    "Benchmark": [
+      {
+        "commit": {
+          "author": {
+            "email": "manu.mtza@gmail.com",
+            "name": "Manu MA",
+            "username": "manucorporat"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "c7d00ceb1c07893ad0fe1f13464e76f3ff71d758",
+          "message": "feat: support react  (#397)",
+          "timestamp": "2022-04-23T12:32:43+01:00",
+          "tree_id": "bfcdd172480b01fb9a093f55c0e69ca28ba5b09d",
+          "url": "https://github.com/BuilderIO/qwik/commit/c7d00ceb1c07893ad0fe1f13464e76f3ff71d758"
+        },
+        "date": 1650714295403,
+        "tool": "cargo",
+        "benches": [
+          {
+            "name": "transform_todo_app",
+            "value": 2132326,
+            "range": "± 300537",
+            "unit": "ns/iter"
+          }
+        ]
+      }
+    ]
+  }
+}

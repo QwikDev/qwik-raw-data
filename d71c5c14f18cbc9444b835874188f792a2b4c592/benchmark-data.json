@@ -1,0 +1,38 @@
+{
+  "lastUpdate": 1651229031880,
+  "repoUrl": "https://github.com/BuilderIO/qwik",
+  "entries": {
+    "Benchmark": [
+      {
+        "commit": {
+          "author": {
+            "email": "manu.mtza@gmail.com",
+            "name": "Manu MA",
+            "username": "manucorporat"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "d71c5c14f18cbc9444b835874188f792a2b4c592",
+          "message": "refactor: use yarn workspaces (#420)",
+          "timestamp": "2022-04-29T12:33:33+02:00",
+          "tree_id": "deb6757c76bea709138c1acb97aaa1d0e36f14fd",
+          "url": "https://github.com/BuilderIO/qwik/commit/d71c5c14f18cbc9444b835874188f792a2b4c592"
+        },
+        "date": 1651229031879,
+        "tool": "cargo",
+        "benches": [
+          {
+            "name": "transform_todo_app",
+            "value": 1813916,
+            "range": "± 137012",
+            "unit": "ns/iter"
+          }
+        ]
+      }
+    ]
+  }
+}
